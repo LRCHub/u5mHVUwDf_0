@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "脱法ロック",
+  "base_artist": "Neru",
+  "createdAt": "2025-12-17T10:48:23.334103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "脱法ロック",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/01_脱法ロック_Neru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "脱法ロック",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/02_脱法ロック_Neru_feat._鏡音レン.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Law-Evading Rock (脱法ロック)",
+      "artist": "bitnari",
+      "has_synced": true,
+      "path": "select/03_Law-Evading_Rock_(脱法ロック)_bitnari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "脱法ロック",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/04_脱法ロック_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "脱法ロック",
+      "artist": "Neru feat. 鏡音レン",
+      "has_synced": false,
+      "path": "select/pl_01_脱法ロック_Neru_feat._鏡音レン.txt"
+    }
+  ]
+}
